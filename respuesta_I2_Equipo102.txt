@@ -1,2 +1,4 @@
 A-Apretando la pestaña de mi repositorio y elegir la opcion de Sync FORK
 B- No, A menos que se haga un merge.
+C- No, A menos que se haga un merge
+D- Si, los datos se pierden ya que se actualiza al repositorio del cual se FORKEA
