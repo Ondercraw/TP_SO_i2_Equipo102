@@ -1,1 +1,2 @@
-
+A-Apretando la pestaña de mi repositorio y elegir la opcion de Sync FORK
+B- No, A menos que se haga un merge.
