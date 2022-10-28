@@ -2,3 +2,33 @@ A-Apretando la pestaña de mi repositorio y elegir la opcion de Sync FORK
 B- No, A menos que se haga un merge.
 C- No, A menos que se haga un merge
 D- Si, los datos se pierden ya que se actualiza al repositorio del cual se FORKEA
+
+e- Melany Romero:
+
+1-Descarga el archivo de forma local.
+2-Agrega nombre apellido, ip maquina y hora.
+3-Hace git bash here en su directorio del repo descargado.
+4-Comandos:
+$git init
+$git status
+$git branch -M main
+$git add .
+$git commit -m "GAMMA sube paso 2"
+$git remote add origin "link de se repo.git"
+$git push -u origin main
+
+5-Actualiza su repositorio de donde forkeo se repo (en BETA). Apretando la opcion "Sync fork", o bien podia hacer un merge desde el fork hasta tu rama "main".
+
+Christian Tignino:
+
+1-Comandos:
+$git clone "link de su repo.git"
+2-Modifico archivo.txt
+3-Comandos:
+$git status
+$git add .
+$git commit -m "ALFA sube paso 3"
+$git push
+
+Thomas velazco: 
+1-Merge los repositorios de Alfa y Gamma para tener sus respuestas.
